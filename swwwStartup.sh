@@ -1,4 +1,5 @@
 #!/bin/bash
 
-swww init
+swww-daemon
+sleep 1
 swww img /home/Shredder/Pictures/Wallpapers/StaticArkhamKnight.jpg
