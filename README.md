@@ -1,5 +1,5 @@
 Programs used in cofig:
-swww
+hyprpaper
 grimshot
 rofi
 dolphin
